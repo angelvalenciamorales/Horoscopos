@@ -1,0 +1,10 @@
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\bin\Debug\Horoscopos.exe.config
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\bin\Debug\Horoscopos.exe
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\bin\Debug\Horoscopos.pdb
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.csproj.AssemblyReference.cache
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.Form1.resources
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.Properties.Resources.resources
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.csproj.GenerateResource.cache
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.csproj.CoreCompileInputs.cache
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.exe
+C:\Users\angel valencia\source\repos\Horoscopos\Horoscopos\obj\Debug\Horoscopos.pdb
